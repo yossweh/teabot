@@ -26,7 +26,7 @@ Script ini digunakan untuk mengirim token ke beberapa alamat secara otomatis men
 
 1. Clone repository ini:
    ```sh
-   git clone https://github.com/username/auto-token-sender.git
+   git clone https://github.com/yossweh/auto-token-sender.git
    cd auto-token-sender
 2. Install dependencies:
    ```sh
