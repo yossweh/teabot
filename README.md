@@ -26,8 +26,8 @@ Script ini digunakan untuk mengirim token ke beberapa alamat secara otomatis men
 
 1. Clone repository ini:
    ```sh
-   git clone https://github.com/yossweh/auto-token-sender.git
-   cd auto-token-sender
+   git clone https://github.com/yossweh/teabot.git
+   cd teabot
 2. Install dependencies:
    ```sh
    npm install
@@ -41,7 +41,7 @@ Script ini digunakan untuk mengirim token ke beberapa alamat secara otomatis men
    0xdef456...
 5. Jalankan script dengan perintah:
     ```sh
-    npm install
+    node bot.js
 
 Saat dijalankan, Anda akan diminta untuk memasukkan jumlah token yang ingin dikirim ke setiap alamat (dalam satuan token).
 
